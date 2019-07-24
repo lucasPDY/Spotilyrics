@@ -9,9 +9,17 @@ Libraries used were from:
 [SwagLyrics](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) to get the lyrics of the song  
 [SwSpotify](https://github.com/SwagLyrics/SwSpotify) to get the artist and song title  
 
-To try it out, run the following  
+To try it out, make sure to install the following    
+```
 pip install swaglyrics  
 pip install SwSpotify  
-  
+```  
+
+After that, run
+```
+python test.py  
+```
+and you're good to go!
+
 This is a very simple starting project for me to get used to using GitHub and to explore the ingenuity of the community here.
 Thanks!
